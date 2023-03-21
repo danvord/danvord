@@ -16,7 +16,4 @@
 - [Bug-Reports](https://github.com/danvord/bug-reports)
 - [Postman Collections](https://github.com/danvord/postman)
 
-### Follow Me
-[![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/danvormusic/)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danvord&show_icons=true&theme=radical)
