@@ -1,4 +1,4 @@
-![Header](https://github.com/danvord/danvord/blob/master/assets/header.png)
+
 ## 👋 Hi I'm beginner a QA Enginner 
 ### 👨‍💼 About Me:
 My journey in IT began with courses where I studied testing in Skypro from June 2022 to March 2023. At the moment I'm trying my hand as a QA Automation also on Skypro courses. In the future I plan to study the layout at a professional level. On Anna Block's web development courses. My hobby is creating electronic dance music. At the moment my manual testing course is finished and I am looking for a job!
