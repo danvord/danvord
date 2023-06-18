@@ -21,6 +21,6 @@ My journey in IT began with courses where I studied testing in Skypro from June 
 - [Test Suites and Test Cases](https://github.com/danvord/test-cases)
 - [Test Reports](https://github.com/danvord/test-reports)
 - [Postman Collections](https://github.com/danvord/postman)
-- [Py Test](https://github.com/danvord/phy-test)
+- [Py Test](https://github.com/danvord/py-test)
 ### 📊 Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=danvord&&count_private=true&show_icons=true&theme=transparent)
